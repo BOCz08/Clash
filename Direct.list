@@ -40,6 +40,10 @@ DOMAIN-SUFFIX,so.com
 # 58
 DOMAIN-SUFFIX,58.com
 
+#Roon
+DOMAIN-SUFFIX,roonmobile.roonlabs.net
+DOMAIN-SUFFIX,porttest.roonlabs.net
+
 # Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
