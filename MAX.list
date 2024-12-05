@@ -50,12 +50,12 @@ USER-AGENT,HBOMAX*
 PROCESS-NAME,com.hbo.hbonow
 
 # Max
-user-agent, HBOAsia*, Max
-host, 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Max
-host-wildcard, hboasia*-i.akamaihd.net, Max
-host-suffix, s3-ap-southeast-1.amazonaws.com, Max
-host-suffix, max.com, Max
-host-suffix, discomax.com, Max
+user-agent,HBOAsia*,Max
+host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Max
+host-wildcard,hboasia*-i.akamaihd.net,Max
+host-suffix,s3-ap-southeast-1.amazonaws.com,Max
+host-suffix,max.com,Max
+host-suffix,discomax.com,Max
 
 # HBO NOW(GO)
 user-agent,HBO%20NOW*,HBO
