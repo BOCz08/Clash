@@ -1,12 +1,6 @@
 #MAGPIE
 DOMAIN-SUFFIX,023168.xyz
 
-#Streamlink
-DOMAIN-SUFFIX,stream-link.org
-DOMAIN-SUFFIX,error.stream-link.org
-DOMAIN-SUFFIX,sc2024.stream-link.org
-DOMAIN-SUFFIX,live-edge-01.stream-link.online
-
 #Roon
 DOMAIN-SUFFIX,accounts5.roonlabs.com
 DOMAIN-SUFFIX,updates.roonlabs.com
