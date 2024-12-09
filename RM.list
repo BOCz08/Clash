@@ -1,6 +1,9 @@
 #MAGPIE
 DOMAIN-SUFFIX,023168.xyz
 
+#Streamlink
+DOMAIN-SUFFIX,stream-link.org
+
 #Roon
 DOMAIN-SUFFIX,accounts5.roonlabs.com
 DOMAIN-SUFFIX,updates.roonlabs.com
