@@ -52,9 +52,6 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 
-#Roon
-DOMAIN-SUFFIX,roonmobile.roonlabs.net
-DOMAIN-SUFFIX,porttest.roonlabs.net
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
