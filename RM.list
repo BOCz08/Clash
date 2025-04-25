@@ -1,24 +1,11 @@
-#MAGPIE
+#Emby
 DOMAIN-SUFFIX,023168.xyz
+DOMAIN-SUFFIX,xmax.vip
 
-#stream-link
+#IPTV
 DOMAIN-KEYWORD,stream-link
 DOMAIN-SUFFIX,2025link.site
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,stream-link.online
-
-#YanG
 DOMAIN-SUFFIX,iill.top
-
-#Reflix
-DOMAIN-SUFFIX,reflix.top
-
-#XMAX
-DOMAIN-SUFFIX,xmax.vip
-
-#Airport
-DOMAIN-SUFFIX,ca.getbn.net
-DOMAIN-SUFFIX,flowercloud.net
-
-#APTV
 DOMAIN-SUFFIX,bit.ly
