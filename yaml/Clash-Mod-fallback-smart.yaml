@@ -7,7 +7,7 @@
 proxy-providers:
 
   Bitz:
-    url: "http://192.168.8.8:2346/sub?target=clash&url=https%3A%2F%2Fs3.bbdmfetch.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D10871a46c9f1ee240125b943a951baa0&insert=false&emoji=false&list=false&tfo=false&scv=true&fdn=false&expand=true&sort=false&udp=true&new_name=true"
+    url: "                    "
     type: http
     interval: 86400
     health-check:
