@@ -162,7 +162,7 @@ proxy-groups:
   - name: 所有-智选
     type: smart
     include-all: true
-    policy-priority: "香港:1.5;West:0.8"
+    policy-priority: "香港:1.2;West:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -185,7 +185,7 @@ proxy-groups:
   - name: 香港-智选
     type: smart
     include-all: true
-    policy-priority: "Bitz:1.5;Dog:1.2;West:0.8"
+    policy-priority: "Bitz:1.2;West:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -206,7 +206,7 @@ proxy-groups:
   - name: 台湾-智选
     type: smart
     include-all: true
-    policy-priority: "West:1.5;Dog:1.2;Bitz:0.8"
+    policy-priority: "Dog:1.2;Bitz:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -227,7 +227,7 @@ proxy-groups:
   - name: 日本-智选
     type: smart
     include-all: true
-    policy-priority: "Bitz:1.5;Dog:1.2;West:0.8"
+    policy-priority: "Bitz:1.2;West:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -248,7 +248,7 @@ proxy-groups:
   - name: 新加坡-智选
     type: smart
     include-all: true
-    policy-priority: "West:1.5;Dog:1.2;Bitz:0.8"
+    policy-priority: "Dog:1.2;Bitz:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -269,7 +269,7 @@ proxy-groups:
   - name: 韩国-智选
     type: smart
     include-all: true
-    policy-priority: "Bitz:1.5;West:1.2;Dog:0.8"
+    policy-priority: "West:1.2;Dog:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -290,7 +290,7 @@ proxy-groups:
   - name: 美国-智选
     type: smart
     include-all: true
-    policy-priority: "Bitz:1.5;West:1.2;Dog:0.8"
+    policy-priority: "Bitz:1.2;West:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -311,7 +311,7 @@ proxy-groups:
   - name: 英国-智选
     type: smart
     include-all: true
-    policy-priority: "Bitz:1.5;Dog:1.2;West:0.8"
+    policy-priority: "Bitz:1.2;Dog:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -332,7 +332,7 @@ proxy-groups:
   - name: 其他-智选
     type: smart
     include-all: true
-    policy-priority: "Bitz:1.5;West:1.2;Dog:0.8"
+    policy-priority: "Bitz:1.2;West:0.8"
     uselightgbm: true
     collectdata: true
     interval: 300
