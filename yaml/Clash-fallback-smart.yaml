@@ -1,4 +1,5 @@
 
+
 # ========================
 # Clash-ALL 优化配置
 # ========================
@@ -8,7 +9,7 @@
 proxy-providers:
 
   Bitz:
-    url: "  "
+    url: "http://192.168.8.8:3001/T3B9dgzBzdRbBF8Aqx7P/download/Bitz?target=ClashMeta"
     type: http
     interval: 86400
     health-check:
@@ -18,7 +19,7 @@ proxy-providers:
     proxy: 直连 
     
   West:
-    url: "  "
+    url: "http://192.168.8.8:3001/T3B9dgzBzdRbBF8Aqx7P/download/West?target=ClashMeta"
     type: http
     interval: 86400
     health-check:
@@ -28,7 +29,7 @@ proxy-providers:
     proxy: 直连
 
   Dog:
-    url: "  "
+    url: "http://192.168.8.8:3001/T3B9dgzBzdRbBF8Aqx7P/download/SSRDOG?target=ClashMeta"
     type: http
     interval: 86400
     health-check:
@@ -82,7 +83,7 @@ dns:
 # Dog 
     - +.ssrdog.com
 
-ipv6: true
+ipv6: false
 
 # ========================
 # TUN 模块
