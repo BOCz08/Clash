@@ -9,7 +9,7 @@
 proxy-providers:
 
   Bitz:
-    url: "http://192.168.8.8:3001/T3B9dgzBzdRbBF8Aqx7P/download/Bitz?target=ClashMeta"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -19,7 +19,7 @@ proxy-providers:
     proxy: 直连 
     
   West:
-    url: "http://192.168.8.8:3001/T3B9dgzBzdRbBF8Aqx7P/download/West?target=ClashMeta"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -29,7 +29,7 @@ proxy-providers:
     proxy: 直连
 
   Dog:
-    url: "http://192.168.8.8:3001/T3B9dgzBzdRbBF8Aqx7P/download/SSRDOG?target=ClashMeta"
+    url: ""
     type: http
     interval: 86400
     health-check:
