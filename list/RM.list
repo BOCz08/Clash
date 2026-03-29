@@ -14,8 +14,4 @@ DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,v1.mk
 #emotn
 DOMAIN-SUFFIX,keeflys.com
-#TVF1
-DOMAIN-SUFFIX,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,known-issues.apple.com
-DOMAIN-SUFFIX,hls-amt.itunes.apple.com
-DOMAIN-SUFFIX,linear.tv.apple.com
+
