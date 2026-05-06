@@ -6,16 +6,17 @@ DOMAIN-SUFFIX,niceduck.lol
 DOMAIN-SUFFIX,qzz.io
 DOMAIN-SUFFIX,heisi.org
 DOMAIN-SUFFIX,de5.net
-#streamlink
+#APTV
 DOMAIN-SUFFIX,2025link.site
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,stream-link.online
-#APTV
 DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,176868.cloud
+DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,ottiptv.cc
 #emotn
 DOMAIN-SUFFIX,keeflys.com
 
