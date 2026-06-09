@@ -443,7 +443,7 @@ rule-providers:
   Reddit / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/reddit.mrs"}
 
   Youtube / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/youtube.mrs"}  
-  Emby / Domain: {<<: *class, url: "https://raw.githubusercontent.com/BOCz08/Clash/refs/heads/main/list/RM.list"}
+  Emby / Domain: {<<: *class, url: "https://raw.githubusercontent.com/BOCz08/Clash/refs/heads/main/list/Emby.list"}
   Google / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/google.mrs"}  
   Google / IP: {<<: *ip, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geoip/google.mrs"}
 # GateFireWall / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
