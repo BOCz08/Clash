@@ -344,6 +344,7 @@ rules:
   - RULE-SET,Binance / Domain,Crypto
   - RULE-SET,Youtube / Domain,YouTube
   - RULE-SET,Emby / Domain,Emby
+  - RULE-SET,Livetv / Domain,Livetv
   - RULE-SET,TikTok / Domain,TikTok
   - RULE-SET,Netflix / Domain,Netflix
   - RULE-SET,Netflix / IP,Netflix,no-resolve
@@ -422,6 +423,7 @@ rule-providers:
 
   Youtube / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/youtube.mrs"}  
   Emby / Domain: {<<: *class, url: "https://raw.githubusercontent.com/BOCz08/Clash/refs/heads/main/list/Emby.list"}
+  Livetv / Domain: {<<: *class, url: "https://raw.githubusercontent.com/BOCz08/Clash/refs/heads/main/list/Livetv.list"}
   Google / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/google.mrs"}  
   Google / IP: {<<: *ip, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geoip/google.mrs"}
 # GateFireWall / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
