@@ -136,6 +136,7 @@ proxy-groups:
   - {name: Game, <<: *default}
   - {name: YouTube, <<: *default}
   - {name: Emby, <<: *default}
+  - {name: Livetv, <<: *default}
   - {name: TikTok, <<: *default}
   - {name: Disney, <<: *default}
   - {name: Netflix, <<: *default}
